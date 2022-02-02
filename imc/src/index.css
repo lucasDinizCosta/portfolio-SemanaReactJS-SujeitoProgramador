@@ -1,0 +1,15 @@
+* {
+  /*Zerando os espaçamentos padrão 
+  inicial do React*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
