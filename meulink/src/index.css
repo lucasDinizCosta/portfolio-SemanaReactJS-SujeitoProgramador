@@ -1,0 +1,25 @@
+* {
+    /*Zera as margens e paddings padrao*/
+    margin: 0;
+    padding: 0;
+    /*margin e padding entram na largura e 
+    altura dos elementos*/
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #132742;
+}
+
+button {
+    cursor: pointer;
+}
+
+.app {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
