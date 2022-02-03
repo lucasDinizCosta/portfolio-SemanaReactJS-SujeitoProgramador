@@ -10,3 +10,4 @@ Semana de estudos com ReactJS do canal 'Sujeito Programador'
   - Dependência: `react-router-dom`
 - Disponibiliza um pacote interessante de ícones para a aplicação.
   - Dependência: `react-icons`
+- O arquivo `routes.js` faz a configuração das rotas de navegação da página web.
